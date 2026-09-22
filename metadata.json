@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix: Unified Verification Portal",
+  "description": "Secure fintech verification portal for Aadhaar, PAN, Driving Licence, Bank Account linking, and portal risk classification.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
